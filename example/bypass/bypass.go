@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gosuri/uiprogress"
+	"github.com/dot-deamon/uiprogress"
 )
 
 func main() {
